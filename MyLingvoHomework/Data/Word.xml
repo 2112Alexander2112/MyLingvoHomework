@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<word en="Boy" ua="Хлопчик" ex1="Boy play wuth ball" ex2="Хлопчик грає м'ячем" />
+	<word en="Tree" ua="Дерево" ex1="Boy sit on a tree" ex2="Хлопчик сидить на дереві" />
+	<word en="Table" ua="стіл" ex1="Apple is on table" ex2="Яблуко на столі" />
+	<word en="Car" ua="Машина" ex1="Car run" ex2="Машина  бежит" />
+</root>
